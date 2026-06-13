@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Temp / lock files
+~$*.xlsx
+~$*.docx
+*.tmp
+
+# Node
+node_modules/
